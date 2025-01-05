@@ -1,1 +1,1 @@
-# 3D-Solar-System
+# 3D_Solar_System
